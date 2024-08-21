@@ -132,6 +132,14 @@ local diff = {
 			},
 			["name"] = "Landing Gear Handle Lock",
 		},
+		["d3007pnilunilcd25vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "AGK-47B Artificial Horizon Cage",
+		},
 		["d3024pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -307,6 +315,38 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d93pnilu93cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Aileron Trimmer Switch, LEFT",
+		},
+		["d94pnilu94cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Aileron Trimmer Switch, RIGHT",
+		},
+		["d95pnilu95cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Elevator Trimmer Switch, PULL(CLIMB)",
+		},
+		["d96pnilu96cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Elevator Trimmer Switch, PUSH(DESCEND)",
 		},
 		["dnilp3003unilcd8vdnilvp-1vunil"] = {
 			["added"] = {
