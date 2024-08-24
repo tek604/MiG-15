@@ -1,6 +1,25 @@
 # MiG-15
 DCS configuration and files
 ===========================
+Pepega Squadron Liveries
+========================
+ALBANIAN MIG 15
+https://www.digitalcombatsimulator.com/en/files/3336199/
+
+CHINA AIR FORCE PACK
+https://www.digitalcombatsimulator.com/en/files/3336194/
+
+Lim-2 (Mig-15 bis) - SP-MIG Squadron Foundation
+https://www.digitalcombatsimulator.com/en/files/3334690/
+
+MiG-15bis Bulgarian Air Force 609
+https://www.digitalcombatsimulator.com/en/files/3333498/
+
+Egyptian Air Force MiG-15 pre-1958
+https://www.digitalcombatsimulator.com/en/files/3318498/
+
+Mig-15 Bis Romanian
+https://www.digitalcombatsimulator.com/en/files/3303266/
 
 Location Of Controller Configs
 ==============================
