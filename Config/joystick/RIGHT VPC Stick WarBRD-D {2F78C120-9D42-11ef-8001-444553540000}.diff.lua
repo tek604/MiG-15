@@ -16,7 +16,7 @@ local diff = {
 		["d3005pnilu3005cd4vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "N-37D Cannon Reload Button",
@@ -24,7 +24,7 @@ local diff = {
 		["d3006pnilu3006cd4vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "NR-23 (Top) Cannon Reload Button",
@@ -32,7 +32,7 @@ local diff = {
 		["d3007pnilu3007cd4vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "NR-23 (Bottom) Cannon Reload Button",
@@ -48,7 +48,7 @@ local diff = {
 		["d3012pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN30",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Tactical Release Switch",
